@@ -1,0 +1,14 @@
+{
+  "name": "play-audio",
+  "version": "1.0.0",
+  "description": "Plays audio on the server machine by using one of platform-specific players provided",
+  "main": "play-audio.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "play-sound": "^1.1.2"
+  }
+}
